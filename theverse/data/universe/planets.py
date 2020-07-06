@@ -48,3 +48,16 @@ Planet(
     polar_radius='6356.752 km',
     volumetric_mean_radius='6371.000 km',
 )
+
+
+Planet(
+    name='Mars',
+    reference='Williams, D.R. (15 June 2020). "Mars Fact Sheet". NASA Goddard Space Flight Center.',
+    reference_url='https://nssdc.gsfc.nasa.gov/planetary/factsheet/marsfact.html',
+    planetary_system='Solar System',
+    primary='Sun',
+    mass='0.64171e24 kg',
+    equatorial_radius='3396.2 km',
+    polar_radius='3376.2 km',
+    volumetric_mean_radius='3389.5 km',
+)
